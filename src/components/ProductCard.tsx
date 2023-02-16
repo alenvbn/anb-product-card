@@ -62,6 +62,7 @@ export const ProductCard = ({
           isMaxCountReached,
           maxCount,
           product,
+
           increaseBy,
           reset,
         })}
